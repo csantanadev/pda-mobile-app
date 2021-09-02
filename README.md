@@ -3,10 +3,9 @@ Aplicativo desenvolvido a pedidos para o gerenciamento de uma pelada de amigos. 
 
 ## Layout 
 
-## Libs utilizadas
-
-
 Verifique as telas aqui: https://github.com/csantanadev/pda-mobile-app/tree/master/assets/screenshot
+
+## Libs utilizadas
 
 * axios
 * expo
