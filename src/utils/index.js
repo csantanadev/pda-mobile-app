@@ -7,6 +7,7 @@ export function FormataMoeda(value) {
 
 
 export const baseUrlAvatar = {
-    urlAvatar: 'https://www.peladadosamigos.com.br/img/avatar/'
+    urlAvatar: '<url>'
+
 }
 
