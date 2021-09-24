@@ -1,5 +1,5 @@
 # Sobre o projeto
-Aplicativo desenvolvido a pedidos para o gerenciamento de uma pelada de amigos. O projeto carece de melhorias em termos de desing de projeto.
+Aplicativo desenvolvido para o gerenciamento de uma pelada de amigos. O projeto carece de várias melhorias em termos de padrão de projeto.
 
 ## Layout 
 
